@@ -39,7 +39,11 @@ The code requires the following user inputs.
 
 ## Outputs
 
+Several files are generated as output including
 
+*
+*
+*
 
 
 
