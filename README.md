@@ -26,7 +26,7 @@ This python code is dependant on few astronomy python packages.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/binysebastian/VLASS-image-crossmatching
+   git clone https://github.com/binysebastian/VLASS-crossmatching
    ```
 
 <!-- USAGE EXAMPLES -->
