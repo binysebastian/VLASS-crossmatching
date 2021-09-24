@@ -5,7 +5,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project identifies the sources from the input image file using PyBDSF. It then crossmatches between the sources identified from the input image file and the VLASS Quick Look source catalog. It writes out a table of source flux densities, and spectral index values estimated at the location of the source regions present in the VLASS Quick Look catalog. In addition, it prints the position and flux densities of the sources which were undetected in the single epoch images. It also displays the single epoch image region and the flux density estimated crudely around the undetected source for further analysis.
+ This project crossmatches between the sources identified from an input image file and the VLASS Quick Look source catalog. The source detection is carried out using PyBDSF. It writes out a table of source flux densities, and spectral index values estimated at the location of the source regions present in the VLASS Quick Look catalog. In addition, it prints the position and flux densities of the sources which were undetected in the single epoch images. It finally prints a crude flux density estimate and displays the single epoch image region around the undetected source.
 
 
 
